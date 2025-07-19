@@ -1,0 +1,86 @@
+body{
+	background-image: url("../images/yuga/7road.png");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+#end{
+	font-size: 30px;
+	color: green;
+}
+#title{
+	margin-top: -6%;
+	text-align: center;
+	color: darkviolet;
+	font-size: 40px;
+	text-decoration: underline;
+}
+section{
+	text-align: center;
+	color: darkblue;
+}
+
+footer{
+	color: orange;
+	font-size: 50px;
+	text-align: center;
+}
+header{
+	font-size: 20px;
+}
+section{
+	font-size: 20px;
+}
+#sev{
+	text-align: center;
+	height: 400px;
+	width: 300px;
+}
+#magic{
+	display: none;
+}
+#video{
+	width: 560px;
+	height: 315px;
+}
+#rengekyryu{
+	text-align: center;
+	height: 400px;
+	width: 300px;
+}
+#prima{
+	text-align: center;
+	height: 400px;
+	width: 300px;
+}
+#yameruler{
+	text-align: center;
+	height: 400px;
+	width: 300px;
+}
+#combo{
+	display: none;
+}
+#guitarna{
+	display: none;
+}
+#ruler{
+	display: none;
+}
+#yuga{
+	width: 450px;
+	height: 300px;
+}
+#rook{
+	width: 450px;
+	height: 300px;
+}
+#romin{
+	width: 450px;
+	height: 300px;
+}
+#gakuto{
+	width: 450px;
+	height: 300px;
+}

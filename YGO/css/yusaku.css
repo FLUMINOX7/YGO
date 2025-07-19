@@ -1,0 +1,77 @@
+body{
+	background-image: url("../images/yusaku/vrainsb.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 120%;
+	background-attachment:fixed;
+}
+section{
+	text-align: center;
+	color: darkred;
+}
+#end{
+	font-size: 30px;
+	color: green;
+}
+#title{
+	margin-top: -6%;
+	text-align: center;
+	color: darkred;
+	font-size: 40px;
+	text-decoration: underline;
+}
+footer{
+	color: violet;
+	font-size: 50px;
+	text-align: center;
+}
+header{
+	font-size: 20px;
+}
+section{
+	font-size: 20px;
+}
+
+#ai_ignis{
+	width: 420px;
+	height: 270px;
+	margin-left: 12%;
+	display: none;
+	float: left;
+}
+#formeIgnis{
+	color: orange;
+	margin-right: 50%;
+}
+#formeSoltis{
+	color: orange;
+	margin-left: 50%;
+	margin-top: -3%;
+}
+#ai_soltis{
+	width: 420px;
+	height: 270px;
+	margin-left: 61%;
+	display: none;
+
+}
+.ys{
+	margin-top:5px;
+}
+
+#video{
+	width: 560px;
+	height: 315px;
+}
+#yusaku{
+	width: 460px;
+	height: 380px;
+}
+#takeru{
+	width: 450px;
+	height: 350px;
+}
+#revolver{
+	width: 450px;
+	height: 300px;
+}

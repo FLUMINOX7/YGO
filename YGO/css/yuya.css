@@ -1,0 +1,86 @@
+body{
+	background-image: url("../images/yuya/arcv back.png");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 110%;
+	background-attachment:fixed;
+}
+section{
+	text-align: center;
+	color: darkblue;
+}
+#end{
+	font-size: 30px;
+	color: green;
+}
+#title{
+	margin-top: -6%;
+	text-align: center;
+	color: red;
+	font-size: 40px;
+	text-decoration: underline;
+}
+footer{
+	text-align: center;
+	color: green;
+	font-size: 50px;
+}
+header{
+	font-size: 20px;
+}
+section{
+	font-size: 20px;
+}
+
+#secret{
+	display: none;
+}
+
+#Bonus{
+	color: yellow;
+	font-size: 40px
+}
+#video{
+	width: 560px;
+	height: 315px;
+}
+#odd{
+	width: 220px;
+	height: 300px;
+}
+#rebellion{
+	width: 220px;
+	height: 300px;
+}
+#clear{
+	width: 220px;
+	height: 300px;
+}
+#starve{
+	width: 220px;
+	height: 300px;
+}
+#to{
+	width: 250px;
+	height: 300px;
+}
+#ya{
+	width: 290px;
+	height: 300px;
+}
+#ri{
+	width: 250px;
+	height: 350px;
+}
+#go{
+	width: 250px;
+	height: 350px;
+}
+#zarc{
+	width: 380px;
+	height: 250px;
+}
+#Z{
+	width: 220px;
+	height: 300px;
+}
