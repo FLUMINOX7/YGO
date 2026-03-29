@@ -55,10 +55,10 @@ function diminuer3() {
     myImg.style.height = (height - 30) + "px";
     }
 function changeImage(){
-        document.getElementById("sev").src='sevens magic.png';
+    document.getElementById("sev").src='../images/yuga/sevens magic.png';
     }
 function remetImage(){
-        document.getElementById("sev").src='7throad.png';
+    document.getElementById("sev").src='../images/yuga/7throad.png';
     }
 
 function affiche(){
